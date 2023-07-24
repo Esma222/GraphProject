@@ -18,7 +18,7 @@ public class Test {
 	public static Object[][] map;
 	
 	public static void main(String[] args) {
-	//The maze txt can be changed in the getRawMap function 
+	//The maze txt can be changed in the getRawMap function .
 	start();
 	UndirectedGraph graph = new UndirectedGraph();
 	int endVertexNamei=(map.length-2);
